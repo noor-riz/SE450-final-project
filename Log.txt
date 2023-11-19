@@ -1,0 +1,7 @@
+2023-11-19 20:10:05 User logged in: Noor
+2023-11-19 20:10:31 Item added to cart: 3 Tablet(s)
+2023-11-19 20:10:53 Item added to cart: 1 phone(s)
+2023-11-19 20:11:07 Item removed from cart: 1 phone(s)
+2023-11-19 20:11:27 Payment processed. Remaining balance for Noor: $19100.0
+2023-11-19 20:11:40 User logged out: Noor
+2023-11-19 20:11:50 User logged in: Noor
